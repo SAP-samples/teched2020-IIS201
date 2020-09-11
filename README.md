@@ -1,4 +1,4 @@
-# Session ID - Session Title
+# IIS201 - Bring the Full SAP Fiori User Experience to Your Screens in SAP GUI
 
 ## Description
 
