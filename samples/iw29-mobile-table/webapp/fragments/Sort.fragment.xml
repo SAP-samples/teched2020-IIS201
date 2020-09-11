@@ -1,0 +1,13 @@
+<core:FragmentDefinition
+	xmlns="sap.m"
+	xmlns:core="sap.ui.core">
+	<ViewSettingsDialog
+		confirm="onSortConfirm">
+		<sortItems>
+			<ViewSettingsItem text="Notification Date" key="QMDAT" selected="true" />
+			<ViewSettingsItem text="Equipment" key="EQUNR" />
+			<ViewSettingsItem text="Malfunction Start Date" key="AUSVN" />
+			<ViewSettingsItem text="Priority" key="PRIOKX" />
+		</sortItems>
+	</ViewSettingsDialog>
+</core:FragmentDefinition>

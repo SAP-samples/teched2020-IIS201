@@ -1,0 +1,57 @@
+{
+	"NotificationCollection": [{
+		"QMNUM": "300003236",
+		"QMART": "M2",
+		"QMDAT": "07/09/2020",
+		"PRIOKX": "1-Very high",
+		"PRIOK": "1",
+		"QMTXT": "TESTING THE NOTIFICATION DESCRIPTION",
+		"EQUNR": "10000001",
+		"AUSVN": "07/01/2020"
+	}, {
+		"QMNUM": "111003236",
+		"QMART": "S2",
+		"QMDAT": "10/07/2020",
+		"PRIOKX": "3-Medium",
+		"PRIOK": "3",
+		"QMTXT": "Just a medium prio. malfuntion",
+		"EQUNR": "10000002",
+		"AUSVN": "09/30/2020"
+	}, {
+		"QMNUM": "111003235",
+		"QMART": "S2",
+		"QMDAT": "06/30/2020",
+		"PRIOKX": "3-Medium",
+		"PRIOK": "3",
+		"QMTXT": "Just another medium prio. malfuntion",
+		"EQUNR": "10000002",
+		"AUSVN": "06/23/2020"
+	}, {
+		"QMNUM": "211003236",
+		"QMART": "S3",
+		"QMDAT": "04/04/2020",
+		"PRIOKX": "4-Low",
+		"PRIOK": "4",
+		"QMTXT": "Yet another malfunction",
+		"EQUNR": "10000003",
+		"AUSVN": "04/01/2020"
+	}, {
+		"QMNUM": "311003236",
+		"QMART": "S3",
+		"QMDAT": "12/31/2019",
+		"PRIOKX": "2-High",
+		"PRIOK": "2",
+		"QMTXT": "Yet another malfunction",
+		"EQUNR": "10000003",
+		"AUSVN": "12/30/2019"
+	}, {
+		"QMNUM": "711003236",
+		"QMART": "S3",
+		"QMDAT": "09/08/2020",
+		"PRIOKX": "2-High",
+		"PRIOK": "2",
+		"QMTXT": "Yet another malfunction",
+		"EQUNR": "10000003",
+		"AUSVN": "09/08/2020"
+	}]
+}

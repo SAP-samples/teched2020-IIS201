@@ -1,0 +1,35 @@
+<core:FragmentDefinition xmlns="sap.m" xmlns:core="sap.ui.core">
+	<ViewSettingsDialog confirm="onFilterConfirmed">
+		<filterItems>
+			<ViewSettingsFilterItem text="Type" key="QMART" multiSelect="true">
+				<items>
+					<ViewSettingsItem text="M2 - Malfunction report" key="QMART___EQ___M2"/>
+					<ViewSettingsItem text="S2 - Service request" key="QMART___EQ___S2"/>
+					<ViewSettingsItem text="S3 - Activity report" key="QMART___EQ___S3"/>
+				</items>
+			</ViewSettingsFilterItem>
+			<ViewSettingsFilterItem text="Priority" key="PRIOK" multiSelect="true">
+				<items>
+					<ViewSettingsItem text="1-Very high" key="PRIOK___EQ___1"/>
+					<ViewSettingsItem text="2-High" key="PRIOK___EQ___2"/>
+					<ViewSettingsItem text="3-Medium" key="PRIOK___EQ___3"/>
+					<ViewSettingsItem text="4-Low" key="PRIOK___EQ___4"/>
+				</items>
+			</ViewSettingsFilterItem>
+			<ViewSettingsFilterItem text="Notification Date" key="QMDAT" multiSelect="false">
+				<items>
+					<ViewSettingsItem text="Today" key="QMDAT___EQ___TODAY"/>
+					<ViewSettingsItem text="Within a month" key="QMDAT___BT___TODAY___MONTH"/>
+					<ViewSettingsItem text="Older than a month" key="QMDAT___LT___MONTH"/>
+				</items>
+			</ViewSettingsFilterItem>
+			<ViewSettingsFilterItem text="Malfunction Date" key="AUSVN" multiSelect="false">
+				<items>
+					<ViewSettingsItem text="Today" key="AUSVN___EQ___TODAY"/>
+					<ViewSettingsItem text="Within a month" key="AUSVN___BT___TODAY___MONTH"/>
+					<ViewSettingsItem text="Older than a month" key="AUSVN___LT___MONTH"/>
+				</items>
+			</ViewSettingsFilterItem>
+		</filterItems>
+	</ViewSettingsDialog>
+</core:FragmentDefinition>

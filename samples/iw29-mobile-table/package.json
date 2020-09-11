@@ -1,0 +1,12 @@
+{
+  "name": "iw29-mobile-table",
+  "version": "1.0.0",
+  "description": "== Local Preview Execute `npm start`",
+  "main": "webapp/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

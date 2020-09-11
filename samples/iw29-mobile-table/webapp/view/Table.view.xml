@@ -1,0 +1,51 @@
+<mvc:View controllerName="iw29mobiletable.controller.Table" xmlns:mvc="sap.ui.core.mvc" xmlns:core="sap.ui.core" xmlns="sap.m">
+	<Table id="idNotificationsTable" inset="false" mode="SingleSelectMaster" selectionChange="onSelect"
+		items="{ path: 'DATA>/NotificationCollection', sorter: { path: 'Name' } }">
+		<headerToolbar>
+			<OverflowToolbar>
+				<content>
+					<Title text="Notifications" level="H2"/>
+					<ToolbarSpacer/>
+					<SearchField id="searchField" search="onSearch" placeholder="Search by Equipment" width="auto"></SearchField>
+					<ToggleButton id="scanBarcode" tooltip="Scan Equipment Barcode" icon="sap-icon://bar-code" press="onBarcodeScan"/>
+					<Button tooltip="Group" icon="sap-icon://sort" press="onSort"/>
+					<Button tooltip="Filter" icon="sap-icon://filter" press="onFilter"/>
+				</content>
+			</OverflowToolbar>
+		</headerToolbar>
+		<columns>
+			<Column minScreenWidth="Tablet" demandPopin="true" hAlign="Center">
+				<Text text="Notification"/>
+			</Column>
+			<Column minScreenWidth="Tablet" hAlign="Center">
+				<Text text="Notification Date"/>
+			</Column>
+			<Column minScreenWidth="Tablet" demandPopin="true" hAlign="Center">
+				<Text text="Description"/>
+			</Column>
+			<Column minScreenWidth="Tablet" demandPopin="true" hAlign="Center">
+				<Text text="Equipment"/>
+			</Column>
+			<Column demandPopin="true" hAlign="Center">
+				<Text text="Malfunction Start Date"/>
+			</Column>
+			<Column demandPopin="true" hAlign="Center">
+				<Text text="Priority"/>
+			</Column>
+		</columns>
+		<items>
+			<ColumnListItem>
+				<cells>
+					<ObjectIdentifier title="{DATA>QMNUM}" text="{DATA>QMART}"/>
+					<Text
+						text="{ path: 'DATA>QMDAT', type: 'sap.ui.model.type.Date', formatOptions : { pattern : 'MM/dd/yyyy', source : { pattern : 'MM/dd/yyyy' } } }"/>
+					<Text text="{DATA>QMTXT}"/>
+					<Text text="{DATA>EQUNR}"/>
+					<Text
+						text="{ path: 'DATA>AUSVN', type: 'sap.ui.model.type.Date', formatOptions : { pattern : 'MM/dd/yyyy', source : { pattern : 'MM/dd/yyyy' } } }"/>
+					<ObjectStatus text="{DATA>PRIOKX}" state="{path : 'DATA>PRIOK', formatter : 'iw29mobiletable.Formatter.priority'}"/>
+				</cells>
+			</ColumnListItem>
+		</items>
+	</Table>
+</mvc:View>

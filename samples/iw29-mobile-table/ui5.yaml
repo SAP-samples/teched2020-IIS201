@@ -1,0 +1,14 @@
+specVersion: '2.2'
+metadata:
+  name: iw29-mobile-table
+type: application
+
+framework:
+  name: SAPUI5
+  version: "1.81.1"
+  
+  libraries:
+    - name: sap.m
+    - name: sap.ui.core
+    - name: sap.ndc
+    - name: themelib_sap_belize
