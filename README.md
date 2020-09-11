@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2020 session called Session ID - Session Title. 
+This hands-on session gives you an opportunity to transform screens in the classic SAP GUI interface into simple, role-based, adaptive designs using the SAP Fiori user experience without coding. This session presents how to use SAP Screen Personas software to make complex SAP GUI screens more intuitive. This proven approach improves user productivity, reduces training time, and increases data quality with minimal load on your IT team. 
 
 ## Overview
 
