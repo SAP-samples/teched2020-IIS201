@@ -27,7 +27,7 @@ Provide the exercise content here directly in README.md using [markdown](https:/
 
 **OR** Link to the PDF document stored in your github repo for example...
 
-Start the exercises [here](exercises/myPDFDoc.pdf).
+Start the exercises [here](https://github.com/SAP-samples/teched2020-IIS201/blob/main/TechEd2020_IIS201_Workbook.pdf).
     
 **OR** Link to the Tutorial Navigator for example...
 
