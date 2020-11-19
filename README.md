@@ -27,11 +27,11 @@ For any SAP Screen Personas questions, comments and suggestions you can reach ou
 - [Mobile Development course – 3 weeks](https://open.sap.com/courses/sps4) 
     - Focus on building mobile apps with SAP Screen Personas
 
-**SAP Screen Personas Productivity Power Play** videos are available on YouTube [here](https://www.youtube.com/watch?v=FABpnxDK0bA&list=PLo17W6sWsxWMMli_i5rCCChLbYstVmMpF)**
+**SAP Screen Personas Productivity Power Play** videos are available on YouTube [here](https://www.youtube.com/watch?v=FABpnxDK0bA&list=PLo17W6sWsxWMMli_i5rCCChLbYstVmMpF)
 
-**SAP Screen Personas Help Portal is available [here](https://help.sap.com/viewer/product/SAP_SCREEN_PERSONAS/Current/en-US)**
+**SAP Screen Personas Help Portal is available [here](https://help.sap.com/viewer/product/SAP_SCREEN_PERSONAS/Current/en-US)
 
-**SAP Screen Personas Community is available [here](https://answers.sap.com/tags/67838200100800005412)**
+**SAP Screen Personas Community is available [here](https://answers.sap.com/tags/67838200100800005412)
 
 ## License
 Copyright (c) 2020 SAP SE or an SAP affiliate company. All rights reserved. This file is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
