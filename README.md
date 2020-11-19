@@ -4,6 +4,8 @@
 
 This hands-on session gives you an opportunity to transform screens in the classic SAP GUI interface into simple, role-based, adaptive designs using the SAP Fiori user experience without coding. This session presents how to use SAP Screen Personas software to make complex SAP GUI screens more intuitive. This proven approach improves user productivity, reduces training time, and increases data quality with minimal load on your IT team. 
 
+[](/images/BeforeAfter.png)
+
 ## Exercises
 
 **The exercise content and the system access details are available [here](https://github.com/SAP-samples/teched2020-IIS201/blob/main/TechEd2020_IIS201_Workbook.pdf).**
