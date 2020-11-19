@@ -27,7 +27,7 @@ For any SAP Screen Personas questions, comments and suggestions you can reach ou
 - [Mobile Development course – 3 weeks](https://open.sap.com/courses/sps4) 
     - Focus on building mobile apps with SAP Screen Personas
 
-**SAP Screen Personas Productivity Power Play** videos are available on YouTube [here](https://www.youtube.com/watch?v=FABpnxDK0bA&list=PLo17W6sWsxWMMli_i5rCCChLbYstVmMpF).**
+**SAP Screen Personas Productivity Power Play videos are available on YouTube [here](https://www.youtube.com/watch?v=FABpnxDK0bA&list=PLo17W6sWsxWMMli_i5rCCChLbYstVmMpF).**
 
 **SAP Screen Personas Help Portal is available [here](https://help.sap.com/viewer/product/SAP_SCREEN_PERSONAS/Current/en-US).**
 
