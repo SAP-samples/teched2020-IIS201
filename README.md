@@ -13,6 +13,7 @@ The source code of the SAPUI5 Fiori Table featured in the exercises can be seen 
 ## How to obtain support
 
 Support for the content in this repository is available during the actual time of the online session for which this content has been designed. Otherwise, you may request support via the [Issues](../../issues) tab.
+
 For any SAP Screen Personas questions, comments and suggestions you can reach out to us via e-mail: sapscreenpersonas@sap.com
 
 
