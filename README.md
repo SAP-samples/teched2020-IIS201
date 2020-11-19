@@ -6,7 +6,7 @@ This hands-on session gives you an opportunity to transform screens in the class
 
 ## Exercises
 
-The exercise content and the system access details are available [here](https://github.com/SAP-samples/teched2020-IIS201/blob/main/TechEd2020_IIS201_Workbook.pdf).
+**The exercise content and the system access details are available [here](https://github.com/SAP-samples/teched2020-IIS201/blob/main/TechEd2020_IIS201_Workbook.pdf).**
 
 The source code of the SAPUI5 Fiori Table featured in the exercises can be seen [here](https://github.com/SAP-samples/teched2020-IIS201/tree/main/samples/iw29-mobile-table)  
 
