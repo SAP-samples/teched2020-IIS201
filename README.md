@@ -6,6 +6,10 @@ This hands-on session gives you an opportunity to transform screens in the class
 
 ![](/images/BeforeAfter.png)
 
+## Requirements
+
+Participants should be familiar with using SAP GUI to perform transactions in an SAP ERP system. You should be comfortable navigating between transactions and switching between screens and tabs within a single transaction. For scripting, some JavaScript knowledge will be helpful, but not essential; we’ll give you the information you need to complete the exercises. 
+
 ## Exercises
 
 **The exercise content and the system access details are available [here](https://github.com/SAP-samples/teched2020-IIS201/blob/main/TechEd2020_IIS201_Workbook.pdf).**
