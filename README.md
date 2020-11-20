@@ -16,6 +16,8 @@ Participants should be familiar with using SAP GUI to perform transactions in an
 
 The source code of the SAPUI5 Fiori Table featured in the exercises can be seen [here](https://github.com/SAP-samples/teched2020-IIS201/tree/main/samples/iw29-mobile-table)  
 
+If you have a chance, we recommend using two screens. One should display the workbook you downloaded locally, so you can easily zoom in or out as necessary, to see all details. The other screen is to perform the actual hands-on tasks. This arrangement significantly improves your experience, instead of having to switch between windows on a single, small screen.
+
 ## How to obtain support
 
 Support for the content in this repository is available during the actual time of the online session for which this content has been designed. Otherwise, you may request support via the [Issues](../../issues) tab.
