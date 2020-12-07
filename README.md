@@ -22,6 +22,8 @@ If you have a chance, we recommend using two screens. One should display the wor
 
 Support for the content in this repository is available during the actual time of the online session for which this content has been designed. Otherwise, you may request support via the [Issues](../../issues) tab.
 
+The completed solution is available [here](https://iccsrm.sap.com:44300/sap/bc/se/m/311_rel/mainapp/ClientBin/index.html?sap-client=100&sap-language=EN&sap-accessibility=X&~transaction=IW29&sap-personas-flavor=0050568405451EDB839F598D012B50AB) (Please use your assigned system access credentials to log-in)
+
 For any SAP Screen Personas questions, comments and suggestions you can reach out to us via e-mail: sapscreenpersonas@sap.com
 
 
