@@ -22,7 +22,17 @@ If you have a chance, we recommend using two screens. One should display the wor
 
 Support for the content in this repository is available during the actual time of the online session for which this content has been designed. Otherwise, you may request support via the [Issues](../../issues) tab.
 
-The completed solution is available [here](https://iccsrm.sap.com:44300/sap/bc/se/m/311_rel/mainapp/ClientBin/index.html?sap-client=100&sap-language=EN&sap-accessibility=X&~transaction=IW29&sap-personas-flavor=0050568405451EDB839F598D012B50AB) (Please use your assigned system access credentials to log-in)
+**Help resources in case you get stuck with the exercises** 
+
+- Step-by-step Video Recordings
+    - Exercise 1
+    - Exercise 2
+    - Exercise 3
+- SAP Screen Personas Flavors with intermediate steps completed
+    - [Exercise 1](https://iccsrm.sap.com:44300/sap/bc/se/m/311_rel/mainapp/ClientBin/index.html?sap-client=100&sap-language=EN&sap-accessibility=X&~transaction=IW29&sap-personas-flavor=0050568405451EDB8DDB38B18D3EE0FC)
+    - [Exercise 2 ](https://iccsrm.sap.com:44300/sap/bc/se/m/311_rel/mainapp/ClientBin/index.html?sap-client=100&sap-language=EN&sap-accessibility=X&~transaction=IW53&sap-personas-flavor=0050568405451EDB8DF1A4A10D33D37B)
+    - [Exercise 3](https://iccsrm.sap.com:44300/sap/bc/se/m/311_rel/mainapp/ClientBin/index.html?sap-client=100&sap-language=EN&sap-accessibility=X&~transaction=IW53&sap-personas-flavor=0050568405451EEB8E8BE8A86092894C)
+- The completed solution is available [here](https://iccsrm.sap.com:44300/sap/bc/se/m/311_rel/mainapp/ClientBin/index.html?sap-client=100&sap-language=EN&sap-accessibility=X&~transaction=IW29&sap-personas-flavor=0050568405451EDB839F598D012B50AB) (Please use your assigned system access credentials to log-in)
 
 For any SAP Screen Personas questions, comments and suggestions you can reach out to us via e-mail: sapscreenpersonas@sap.com
 
