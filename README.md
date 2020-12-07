@@ -25,9 +25,9 @@ Support for the content in this repository is available during the actual time o
 **Help resources in case you get stuck with the exercises** 
 
 - Step-by-step Video Recordings
-    - Exercise 1
-    - Exercise 2
-    - Exercise 3
+    - [Exercise 1](https://sapvideoa35699dc5.hana.ondemand.com/?entry_id=1_nw4lm2m0)
+    - [Exercise 2](https://sapvideoa35699dc5.hana.ondemand.com/?entry_id=1_w56p5j54)
+    - [Exercise 3](https://sapvideoa35699dc5.hana.ondemand.com/?entry_id=1_9a8u2rvh)
 - SAP Screen Personas Flavors with intermediate steps completed
     - [Exercise 1](https://iccsrm.sap.com:44300/sap/bc/se/m/311_rel/mainapp/ClientBin/index.html?sap-client=100&sap-language=EN&sap-accessibility=X&~transaction=IW29&sap-personas-flavor=0050568405451EDB8DDB38B18D3EE0FC)
     - [Exercise 2 ](https://iccsrm.sap.com:44300/sap/bc/se/m/311_rel/mainapp/ClientBin/index.html?sap-client=100&sap-language=EN&sap-accessibility=X&~transaction=IW53&sap-personas-flavor=0050568405451EDB8DF1A4A10D33D37B)
