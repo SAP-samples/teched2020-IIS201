@@ -1,5 +1,7 @@
 # IIS201 - Bring the Full SAP Fiori User Experience to Your Screens in SAP GUI
 
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2020-IIS201)](https://api.reuse.software/info/github.com/SAP-samples/teched2020-IIS201)
+
 ## Description
 
 This hands-on session gives you an opportunity to transform screens in the classic SAP GUI interface into simple, role-based, adaptive designs using the SAP Fiori user experience without extensive coding. This session presents how to use SAP Screen Personas software to make complex SAP GUI screens more intuitive. This proven approach improves user productivity, reduces training time, and increases data quality with minimal load on your IT team. 
