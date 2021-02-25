@@ -56,5 +56,7 @@ For any SAP Screen Personas questions, comments and suggestions you can reach ou
 
 **SAP Screen Personas Community is available [here](https://answers.sap.com/tags/67838200100800005412).**
 
+**Article on Integrating Custom SAPUI5 Components with SAP Screen Personas is available [here](https://blogs.sap.com/2021/01/08/integrating-custom-sapui5-components-with-sap-screen-personas/#).**
+
 ## License
 Copyright (c) 2020 SAP SE or an SAP affiliate company. All rights reserved. This file is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
