@@ -27,7 +27,7 @@ Support for the content in this repository is available during the actual time o
 **Help resources in case you get stuck with the exercises** 
 
 - Step-by-step Video Recordings
-    - [Exercise 1](https://sapvideoa35699dc5.hana.ondemand.com/?entry_id=1_nw4lm2m0)
+    - [Exercise 1](https://sapvideoa35699dc5.hana.ondemand.com/?entry_id=1_nw4lm2m0) (note that this doesn't match the updated workbook using SAPUI5 Applet)
     - [Exercise 2](https://sapvideoa35699dc5.hana.ondemand.com/?entry_id=1_w56p5j54)
     - [Exercise 3](https://sapvideoa35699dc5.hana.ondemand.com/?entry_id=1_9a8u2rvh)
 - SAP Screen Personas Flavors with intermediate steps completed
