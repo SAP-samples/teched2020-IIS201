@@ -1,0 +1,47 @@
+// Load table data from screen
+var fnReadModelData = function (){
+    var oSelectedTable = session.findById("wnd[0]/usr/cntlGRID1/shellcont/shell");
+    var aColumns = oSelectedTable.columns;
+    var aContents = [];
+    var sSAPColumnName;
+    var iTopRow, iRowIdx, oRow, i;
+    if (oSelectedTable.rowCount > 0) {
+        oSelectedTable.firstVisibleRow = 0;
+        iTopRow = oSelectedTable.visibleRowCount - 1;
+        for (iRowIdx = 0; iRowIdx < oSelectedTable.rowCount; iRowIdx++) {
+            oRow = {};
+            if (iRowIdx > iTopRow) {
+                if (iTopRow + oSelectedTable.visibleRowCount > oSelectedTable.rowCount) {
+                    oSelectedTable.firstVisibleRow = oSelectedTable.rowCount - oSelectedTable.visibleRowCount;
+                } else {
+                    oSelectedTable.firstVisibleRow = iTopRow + 1;
+                }
+                iTopRow += oSelectedTable.visibleRowCount;
+            }
+            for (i = 0; i < aColumns.length; i++) {
+                sSAPColumnName = aColumns.elementAt(i).name;
+                oRow[sSAPColumnName] = oSelectedTable.getCellValue(iRowIdx, sSAPColumnName);
+            }
+            aContents.push(oRow);
+        }
+    }
+    return aContents;
+};
+
+var oComponent = session.findById(<PLACE YOUR APPLET ID HERE>).getComponent();
+oComponent.getService("SelectionService").attachSelect(function(oEvent){
+        session.utils.put("SELECTED_NOTIFICATION", oEvent.getParameter("id"));
+        //Call the script that handles the SAPUI5 Fiori table selection event
+        session.utils.executeScriptAsync("wnd[0]/scrptPersonas_0050568405451EDABE9DABE7B06B8923");       
+}.bind(this));
+
+//Set the SAPUI5 Applet view model data 
+oViewModel = oComponent.getModel("DATA");
+oViewModel.setData({"NotificationCollection" : fnReadModelData()});
+
+//Restore default selected row on navigation
+var sSelectedNotification = session.utils.get("SELECTED_NOTIFICATION");
+if(sSelectedNotification){
+    oComponent.getService("SelectionService").setSelectedRowById(sSelectedNotification);
+    session.utils.put("SELECTED_NOTIFICATION", "");
+}
