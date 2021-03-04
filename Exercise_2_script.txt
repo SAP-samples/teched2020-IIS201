@@ -1,0 +1,9 @@
+// Start IW29
+session.findById("wnd[0]/tbar[0]/okcd").text = "/nIW29";
+session.findById("wnd[0]").sendVKey(0);
+// Enter the notification type selection
+session.findById("wnd[0]/usr/ctxtQMART-LOW").text = "S*";
+// Go to the list (execute selection by pressing F8)
+session.findById("wnd[0]/tbar[1]/btn[8]").press();
+// Suppress standard 'Back' button functionality
+return true;
