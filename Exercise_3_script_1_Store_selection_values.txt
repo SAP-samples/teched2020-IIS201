@@ -1,0 +1,5 @@
+// Store selection values
+session.utils.put('equipmentNr', session.findById("wnd[0]/usr/ctxtEQUNR-LOW").text);
+session.utils.put('funcLoc', session.findById("wnd[0]/usr/ctxtSTRNO-LOW").text);
+session.utils.put('dateFrom', session.findById("wnd[0]/usr/ctxtDATUV").text);
+session.utils.put('dateTo', session.findById("wnd[0]/usr/ctxtDATUB").text);

@@ -1,0 +1,5 @@
+// Re-populate selection screen fields
+session.findById("wnd[0]/usr/ctxtEQUNR-LOW").text = session.utils.get('equipmentNr');
+session.findById("wnd[0]/usr/ctxtSTRNO-LOW").text = session.utils.get('funcLoc');
+session.findById("wnd[0]/usr/ctxtDATUV").text = session.utils.get('dateFrom');
+session.findById("wnd[0]/usr/ctxtDATUB").text = session.utils.get('dateTo');
