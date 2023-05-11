@@ -31,10 +31,10 @@ Support for the content in this repository is available during the actual time o
     - [Exercise 2](https://sapvideoa35699dc5.hana.ondemand.com/?entry_id=1_w56p5j54)
     - [Exercise 3](https://sapvideoa35699dc5.hana.ondemand.com/?entry_id=1_9a8u2rvh)
 - SAP Screen Personas Flavors with intermediate steps completed
-    - [Exercise 1](https://iccsrm.sap.com:44300/sap/bc/se/m/312_rel/mainapp/ClientBin/index.html?sap-client=100&sap-language=EN&sap-accessibility=X&~transaction=IW29&sap-personas-flavor=0050568405451EDB8DDB38B18D3EE0FC)
-    - [Exercise 2 ](https://iccsrm.sap.com:44300/sap/bc/se/m/312_rel/mainapp/ClientBin/index.html?sap-client=100&sap-language=EN&sap-accessibility=X&~transaction=IW53&sap-personas-flavor=0050568405451EDB8DF1A4A10D33D37B)
-    - [Exercise 3](https://iccsrm.sap.com:44300/sap/bc/se/m/312_rel/mainapp/ClientBin/index.html?sap-client=100&sap-language=EN&sap-accessibility=X&~transaction=IW53&sap-personas-flavor=0050568405451EEB8E8BE8A86092894C)
-- The completed solution is available [here](https://iccsrm.sap.com:44300/sap/bc/se/m/312_rel/mainapp/ClientBin/index.html?sap-client=100&sap-language=EN&sap-accessibility=X&~transaction=IW29&sap-personas-flavor=0050568405451EDB839F598D012B50AB) (Please use your assigned system access credentials to log-in)
+    - [Exercise 1](https://iccsrm.sap.com:44300/sap/bc/se/m/index.html?sap-client=100&sap-language=EN&sap-accessibility=X&~transaction=IW29&sap-personas-flavor=0050568405451EDB8DDB38B18D3EE0FC)
+    - [Exercise 2](https://iccsrm.sap.com:44300/sap/bc/se/m/index.html?sap-client=100&sap-language=EN&sap-accessibility=X&~transaction=IW53&sap-personas-flavor=0050568405451EDB8DF1A4A10D33D37B)
+    - [Exercise 3](https://iccsrm.sap.com:44300/sap/bc/se/m/index.html?sap-client=100&sap-language=EN&sap-accessibility=X&~transaction=IW53&sap-personas-flavor=0050568405451EEB8E8BE8A86092894C)
+- The completed solution is available [here](https://iccsrm.sap.com:44300/sap/bc/se/m/index.html?sap-client=100&sap-language=EN&sap-accessibility=X&~transaction=IW29&sap-personas-flavor=0050568405451EDB839F598D012B50AB) (Please use your assigned system access credentials to log-in)
 
 For any SAP Screen Personas questions, comments and suggestions you can reach out to us via e-mail: sapscreenpersonas@sap.com
 
